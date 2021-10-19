@@ -1,0 +1,52 @@
+.nav {
+  background-image: linear-gradient(
+    90deg,
+    #ffe9e9,
+    #ffffc8,
+    #fff0dd,
+    #ffe9e9,
+    #ffffc8,
+    #fff0dd,
+    #ffe9e9
+  );
+  padding: 10px;
+}
+
+.nav-space {
+  margin-right: 10%;
+}
+
+.nav-link {
+  color: black;
+}
+
+.introduction {
+  background-color: white;
+  text-align: center;
+}
+
+.section {
+  background-color: #ffffc8;
+  text-align: center;
+}
+
+.card {
+  background-color: #ffffc8;
+  border-color: black;
+}
+
+.card-title {
+  height: 5vh;
+}
+
+.sub-header {
+  text-align: center;
+  padding-bottom: 1%;
+}
+
+.icons {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  margin-bottom: 5%;
+}
